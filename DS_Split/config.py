@@ -5,8 +5,8 @@ from typing import Dict, Any, Tuple, List
 import re
 from DS_Split.utils import format_number
 
-API_URL = "https://maas-cn-southwest-2.modelarts-maas.com/v1/infers/fd53915b-8935-48fe-be70-449d76c0fc87/v1/chat/completions"
-API_KEY = "UeaVz5K4TxQ1gEgmMce7PX7MShCsYDykfcmdQZBv68xgK1xqWpF1Sxsby8IoJ5kfhUiTUmAJ2JRiS2nyLjO0YQ"
+API_URL = ""
+API_KEY = ""
 API_NAME = "DeepSeek-V3"
 
 CONFIG: Dict[str, Any] = {
